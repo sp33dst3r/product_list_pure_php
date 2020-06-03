@@ -1,0 +1,19 @@
+table td img{
+    width: 100px;
+}
+.cart-btn{
+    cursor: pointer;
+}
+.cart-btn.out{
+    color: red;
+}
+.cart-btn.in{
+    color: green;
+}
+
+body{
+    padding: 10px;
+}
+#pagination{
+    font-size: 16px;
+}
