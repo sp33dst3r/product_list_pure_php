@@ -1,7 +1,7 @@
-Весь SQL в файле sql.php (создание базы, таблицы, вставка записей)
+All SQL in sql.php file (DB creation, tables, Insert queries)
 
-Маршруты:
-/products  (остальные маршруты доступны по ссылкам).
+Routes:
+/products  (rest routes implemented in internal links of website).
 
 Задача была сделана без Laravel ( так было указано изначально в тестовом задании)
 
